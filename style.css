@@ -1,5 +1,5 @@
 body {
-	background: linear-gradient(#33FF36  0%, #00e5ff 100%);
+	background: linear-gradient(#ffeb3b 0%, #00e5ff 100%);
 	text-align: center;
 	background-repeat: no-repeat;
 }
@@ -9,15 +9,10 @@ body {
 	width: 500px;
 	border-radius: 50%;
 }
-#book {
-	height: 400px;
-	width: 300px;
-}
 
 p {
 	font-size: 20px;
 	font-weight: bold;
-	color: black;
 }
 
 h1 {
@@ -26,34 +21,6 @@ h1 {
 	font-size: 60px;
 	padding-top: 50px;
 	color: azure;
-}
-h2 {
-	color :black;
-	
-	font-size: 30px;
-
-}
-html{
-	scroll-behavior: smooth;
-}
-#My work a{
-    font-size: :30px;
-    
-}
-#References a{
-    font-size: :30px;
-    
-}
-
-.button {
-  background-color: yellow;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
 }
 
 .menu {
@@ -81,11 +48,5 @@ html{
 }
 
 .link:hover {
-	background-color: white;
-}
-.line{
-    height: 6px;
-    background-color: black;
-    width:70px;
-    margin:8px auto;
+	background-color: cyan;
 }
