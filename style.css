@@ -36,17 +36,101 @@ h1 {
 }
 
 .link {
-	float: left;
+	float: right;
 	padding-top: 5;
 	padding-left: 9;
 	padding-right: 9;
 	padding-bottom: 5;
 	font-family: fantasy;
 	font-size: 20px;
-	color: black;
-	
+	color: white;
+
 }
 
 .link:hover {
 	background-color: cyan;
 }
+
+#My work a {
+	font-size: :30px;
+
+}
+
+#References a {
+	font-size: :30px;
+
+}
+
+#picture {
+	width: auto;
+	height: 300px;
+	border-radius: 0%;
+
+	margin: 20px;
+}
+
+.inspiration {
+
+	padding-top: 20px;
+}
+
+img {
+	transition: transform .2s;
+}
+
+img:hover {
+	transform: scale(0.9);
+}
+
+#contact a {
+	font-size: 30px !important;
+	font-family: 'Courgette', cursive !important;
+
+}
+
+#contact {
+
+	padding-top: 20px;
+}
+
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+
+
+
+}
+
+li {
+	float: right;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+
+li a:hover {
+	background-color: #111;
+}
+
+li {
+	border-right: 1px solid #bbb;
+}
+
+
+
+ul {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+section {}
